@@ -12,16 +12,12 @@ body {
 .block {
 }
 
-.block {
-}
-
-.red{
+.red {
 	color: red;
 }
 
 @media (max-width: 767px) {
-	.red{
+	.red {
 		border: 0;
 	}
-
 }
