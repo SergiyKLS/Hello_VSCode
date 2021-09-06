@@ -1,0 +1,25 @@
+header {
+  background-color: #fff;
+}
+
+h1 {
+  color: blue;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-size: 16px;
+}
+
+.red {
+  color: red;
+}
+
+@media (max-width: 767px) {
+  .red {
+    border: 0;
+  }
+}
