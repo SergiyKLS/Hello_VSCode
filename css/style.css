@@ -3,7 +3,7 @@ header {
 }
 
 h1 {
-  color: blue;
+  color: #498cf2;
 }
 
 body {
@@ -15,5 +15,5 @@ body div {
 }
 
 .red {
-  color: red;
+  color: rgba(255, 0, 0, 0.988);
 }
